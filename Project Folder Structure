@@ -1,0 +1,19 @@
+ASL-Alphabet-Detection
+│
+├── train_model.py
+├── realtime_detection.py
+├── requirements.txt
+├── asl_model.h5
+│
+├── dataset
+│   ├── train
+│   │   ├── A
+│   │   ├── B
+│   │   ├── C
+│   │
+│   │
+│   └── test
+│       ├─ A
+│       ├── B
+│       ├── C
+│       
